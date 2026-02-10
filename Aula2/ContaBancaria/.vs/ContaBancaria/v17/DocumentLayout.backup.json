@@ -1,0 +1,161 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projetos\\ADA\\Caixa Verso C#\\Aula2\\ContaBancaria\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE4236A-0BB6-4D99-BFDC-BAB90ED6D9E8}|ContaBancaria.csproj|c:\\projetos\\ada\\caixa verso c#\\aula2\\contabancaria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE4236A-0BB6-4D99-BFDC-BAB90ED6D9E8}|ContaBancaria.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE4236A-0BB6-4D99-BFDC-BAB90ED6D9E8}|ContaBancaria.csproj|c:\\projetos\\ada\\caixa verso c#\\aula2\\contabancaria\\domain\\contapoupanca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE4236A-0BB6-4D99-BFDC-BAB90ED6D9E8}|ContaBancaria.csproj|solutionrelative:domain\\contapoupanca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE4236A-0BB6-4D99-BFDC-BAB90ED6D9E8}|ContaBancaria.csproj|c:\\projetos\\ada\\caixa verso c#\\aula2\\contabancaria\\domain\\contacorrente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE4236A-0BB6-4D99-BFDC-BAB90ED6D9E8}|ContaBancaria.csproj|solutionrelative:domain\\contacorrente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE4236A-0BB6-4D99-BFDC-BAB90ED6D9E8}|ContaBancaria.csproj|c:\\projetos\\ada\\caixa verso c#\\aula2\\contabancaria\\domain\\contabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE4236A-0BB6-4D99-BFDC-BAB90ED6D9E8}|ContaBancaria.csproj|solutionrelative:domain\\contabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE4236A-0BB6-4D99-BFDC-BAB90ED6D9E8}|ContaBancaria.csproj|c:\\projetos\\ada\\caixa verso c#\\aula2\\contabancaria\\domain\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE4236A-0BB6-4D99-BFDC-BAB90ED6D9E8}|ContaBancaria.csproj|solutionrelative:domain\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 17,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContaPoupanca.cs",
+              "DocumentMoniker": "C:\\Projetos\\ADA\\Caixa Verso C#\\Aula2\\ContaBancaria\\Domain\\ContaPoupanca.cs",
+              "RelativeDocumentMoniker": "Domain\\ContaPoupanca.cs",
+              "ToolTip": "C:\\Projetos\\ADA\\Caixa Verso C#\\Aula2\\ContaBancaria\\Domain\\ContaPoupanca.cs",
+              "RelativeToolTip": "Domain\\ContaPoupanca.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T22:29:46.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContaCorrente.cs",
+              "DocumentMoniker": "C:\\Projetos\\ADA\\Caixa Verso C#\\Aula2\\ContaBancaria\\Domain\\ContaCorrente.cs",
+              "RelativeDocumentMoniker": "Domain\\ContaCorrente.cs",
+              "ToolTip": "C:\\Projetos\\ADA\\Caixa Verso C#\\Aula2\\ContaBancaria\\Domain\\ContaCorrente.cs",
+              "RelativeToolTip": "Domain\\ContaCorrente.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAUwAwAAABxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T22:29:15.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContaBase.cs",
+              "DocumentMoniker": "C:\\Projetos\\ADA\\Caixa Verso C#\\Aula2\\ContaBancaria\\Domain\\ContaBase.cs",
+              "RelativeDocumentMoniker": "Domain\\ContaBase.cs",
+              "ToolTip": "C:\\Projetos\\ADA\\Caixa Verso C#\\Aula2\\ContaBancaria\\Domain\\ContaBase.cs",
+              "RelativeToolTip": "Domain\\ContaBase.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAYwDEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T22:28:50.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Projetos\\ADA\\Caixa Verso C#\\Aula2\\ContaBancaria\\Domain\\Cliente.cs",
+              "RelativeDocumentMoniker": "Domain\\Cliente.cs",
+              "ToolTip": "C:\\Projetos\\ADA\\Caixa Verso C#\\Aula2\\ContaBancaria\\Domain\\Cliente.cs",
+              "RelativeToolTip": "Domain\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T22:28:37.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projetos\\ADA\\Caixa Verso C#\\Aula2\\ContaBancaria\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Projetos\\ADA\\Caixa Verso C#\\Aula2\\ContaBancaria\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T21:54:42.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
