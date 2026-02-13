@@ -1,0 +1,225 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projetos\\ADA\\CaixaVersoDotNet\\Aula3\\Abstracao\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1921E8FE-9792-44B7-8666-DF319468EAFD}|Abstracao.csproj|c:\\projetos\\ada\\caixaversodotnet\\aula3\\abstracao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1921E8FE-9792-44B7-8666-DF319468EAFD}|Abstracao.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1921E8FE-9792-44B7-8666-DF319468EAFD}|Abstracao.csproj|c:\\projetos\\ada\\caixaversodotnet\\aula3\\abstracao\\domain\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1921E8FE-9792-44B7-8666-DF319468EAFD}|Abstracao.csproj|solutionrelative:domain\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1921E8FE-9792-44B7-8666-DF319468EAFD}|Abstracao.csproj|c:\\projetos\\ada\\caixaversodotnet\\aula3\\abstracao\\domain\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1921E8FE-9792-44B7-8666-DF319468EAFD}|Abstracao.csproj|solutionrelative:domain\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1921E8FE-9792-44B7-8666-DF319468EAFD}|Abstracao.csproj|c:\\projetos\\ada\\caixaversodotnet\\aula3\\abstracao\\domain\\tarifas\\tarifamoto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1921E8FE-9792-44B7-8666-DF319468EAFD}|Abstracao.csproj|solutionrelative:domain\\tarifas\\tarifamoto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1921E8FE-9792-44B7-8666-DF319468EAFD}|Abstracao.csproj|c:\\projetos\\ada\\caixaversodotnet\\aula3\\abstracao\\domain\\tarifas\\tarifacarro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1921E8FE-9792-44B7-8666-DF319468EAFD}|Abstracao.csproj|solutionrelative:domain\\tarifas\\tarifacarro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1921E8FE-9792-44B7-8666-DF319468EAFD}|Abstracao.csproj|c:\\projetos\\ada\\caixaversodotnet\\aula3\\abstracao\\domain\\tarifas\\tarifacaminhonete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1921E8FE-9792-44B7-8666-DF319468EAFD}|Abstracao.csproj|solutionrelative:domain\\tarifas\\tarifacaminhonete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1921E8FE-9792-44B7-8666-DF319468EAFD}|Abstracao.csproj|c:\\projetos\\ada\\caixaversodotnet\\aula3\\abstracao\\domain\\tarifas\\tarifabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1921E8FE-9792-44B7-8666-DF319468EAFD}|Abstracao.csproj|solutionrelative:domain\\tarifas\\tarifabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1921E8FE-9792-44B7-8666-DF319468EAFD}|Abstracao.csproj|c:\\projetos\\ada\\caixaversodotnet\\aula3\\abstracao\\domain\\caixaestacionamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1921E8FE-9792-44B7-8666-DF319468EAFD}|Abstracao.csproj|solutionrelative:domain\\caixaestacionamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1921E8FE-9792-44B7-8666-DF319468EAFD}|Abstracao.csproj|c:\\projetos\\ada\\caixaversodotnet\\aula3\\abstracao\\domain\\tipoveiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1921E8FE-9792-44B7-8666-DF319468EAFD}|Abstracao.csproj|solutionrelative:domain\\tipoveiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 21,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CaixaEstacionamento.cs",
+              "DocumentMoniker": "C:\\Projetos\\ADA\\CaixaVersoDotNet\\Aula3\\Abstracao\\Domain\\CaixaEstacionamento.cs",
+              "RelativeDocumentMoniker": "Domain\\CaixaEstacionamento.cs",
+              "ToolTip": "C:\\Projetos\\ADA\\CaixaVersoDotNet\\Aula3\\Abstracao\\Domain\\CaixaEstacionamento.cs",
+              "RelativeToolTip": "Domain\\CaixaEstacionamento.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T23:39:48.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TarifaCaminhonete.cs",
+              "DocumentMoniker": "C:\\Projetos\\ADA\\CaixaVersoDotNet\\Aula3\\Abstracao\\Domain\\Tarifas\\TarifaCaminhonete.cs",
+              "RelativeDocumentMoniker": "Domain\\Tarifas\\TarifaCaminhonete.cs",
+              "ToolTip": "C:\\Projetos\\ADA\\CaixaVersoDotNet\\Aula3\\Abstracao\\Domain\\Tarifas\\TarifaCaminhonete.cs",
+              "RelativeToolTip": "Domain\\Tarifas\\TarifaCaminhonete.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T23:38:57.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TarifaMoto.cs",
+              "DocumentMoniker": "C:\\Projetos\\ADA\\CaixaVersoDotNet\\Aula3\\Abstracao\\Domain\\Tarifas\\TarifaMoto.cs",
+              "RelativeDocumentMoniker": "Domain\\Tarifas\\TarifaMoto.cs",
+              "ToolTip": "C:\\Projetos\\ADA\\CaixaVersoDotNet\\Aula3\\Abstracao\\Domain\\Tarifas\\TarifaMoto.cs",
+              "RelativeToolTip": "Domain\\Tarifas\\TarifaMoto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T23:38:38.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TarifaCarro.cs",
+              "DocumentMoniker": "C:\\Projetos\\ADA\\CaixaVersoDotNet\\Aula3\\Abstracao\\Domain\\Tarifas\\TarifaCarro.cs",
+              "RelativeDocumentMoniker": "Domain\\Tarifas\\TarifaCarro.cs",
+              "ToolTip": "C:\\Projetos\\ADA\\CaixaVersoDotNet\\Aula3\\Abstracao\\Domain\\Tarifas\\TarifaCarro.cs",
+              "RelativeToolTip": "Domain\\Tarifas\\TarifaCarro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T23:38:25.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TarifaBase.cs",
+              "DocumentMoniker": "C:\\Projetos\\ADA\\CaixaVersoDotNet\\Aula3\\Abstracao\\Domain\\Tarifas\\TarifaBase.cs",
+              "RelativeDocumentMoniker": "Domain\\Tarifas\\TarifaBase.cs",
+              "ToolTip": "C:\\Projetos\\ADA\\CaixaVersoDotNet\\Aula3\\Abstracao\\Domain\\Tarifas\\TarifaBase.cs",
+              "RelativeToolTip": "Domain\\Tarifas\\TarifaBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T23:37:48.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TipoVeiculo.cs",
+              "DocumentMoniker": "C:\\Projetos\\ADA\\CaixaVersoDotNet\\Aula3\\Abstracao\\Domain\\TipoVeiculo.cs",
+              "RelativeDocumentMoniker": "Domain\\TipoVeiculo.cs",
+              "ToolTip": "C:\\Projetos\\ADA\\CaixaVersoDotNet\\Aula3\\Abstracao\\Domain\\TipoVeiculo.cs",
+              "RelativeToolTip": "Domain\\TipoVeiculo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T23:37:13.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "C:\\Projetos\\ADA\\CaixaVersoDotNet\\Aula3\\Abstracao\\Domain\\Ticket.cs",
+              "RelativeDocumentMoniker": "Domain\\Ticket.cs",
+              "ToolTip": "C:\\Projetos\\ADA\\CaixaVersoDotNet\\Aula3\\Abstracao\\Domain\\Ticket.cs",
+              "RelativeToolTip": "Domain\\Ticket.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAWwBQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T23:37:03.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Veiculo.cs",
+              "DocumentMoniker": "C:\\Projetos\\ADA\\CaixaVersoDotNet\\Aula3\\Abstracao\\Domain\\Veiculo.cs",
+              "RelativeDocumentMoniker": "Domain\\Veiculo.cs",
+              "ToolTip": "C:\\Projetos\\ADA\\CaixaVersoDotNet\\Aula3\\Abstracao\\Domain\\Veiculo.cs",
+              "RelativeToolTip": "Domain\\Veiculo.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAQwA0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T23:36:50.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projetos\\ADA\\CaixaVersoDotNet\\Aula3\\Abstracao\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Projetos\\ADA\\CaixaVersoDotNet\\Aula3\\Abstracao\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAADsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T23:33:19.644Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
