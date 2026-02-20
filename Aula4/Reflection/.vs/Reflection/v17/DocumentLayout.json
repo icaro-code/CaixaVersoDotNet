@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projetos\\ADA\\CaixaVersoDotNet\\Aula4\\Reflection\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AFAA71FC-1CF4-42B3-B852-EF6E5CA59585}|Reflection.csproj|c:\\projetos\\ada\\caixaversodotnet\\aula4\\reflection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFAA71FC-1CF4-42B3-B852-EF6E5CA59585}|Reflection.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFAA71FC-1CF4-42B3-B852-EF6E5CA59585}|Reflection.csproj|c:\\projetos\\ada\\caixaversodotnet\\aula4\\reflection\\enumhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFAA71FC-1CF4-42B3-B852-EF6E5CA59585}|Reflection.csproj|solutionrelative:enumhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFAA71FC-1CF4-42B3-B852-EF6E5CA59585}|Reflection.csproj|c:\\projetos\\ada\\caixaversodotnet\\aula4\\reflection\\anoescolar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFAA71FC-1CF4-42B3-B852-EF6E5CA59585}|Reflection.csproj|solutionrelative:anoescolar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFAA71FC-1CF4-42B3-B852-EF6E5CA59585}|Reflection.csproj|c:\\projetos\\ada\\caixaversodotnet\\aula4\\reflection\\methodexecutor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFAA71FC-1CF4-42B3-B852-EF6E5CA59585}|Reflection.csproj|solutionrelative:methodexecutor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFAA71FC-1CF4-42B3-B852-EF6E5CA59585}|Reflection.csproj|c:\\projetos\\ada\\caixaversodotnet\\aula4\\reflection\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFAA71FC-1CF4-42B3-B852-EF6E5CA59585}|Reflection.csproj|solutionrelative:aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 17,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MethodExecutor.cs",
+              "DocumentMoniker": "C:\\Projetos\\ADA\\CaixaVersoDotNet\\Aula4\\Reflection\\MethodExecutor.cs",
+              "RelativeDocumentMoniker": "MethodExecutor.cs",
+              "ToolTip": "C:\\Projetos\\ADA\\CaixaVersoDotNet\\Aula4\\Reflection\\MethodExecutor.cs",
+              "RelativeToolTip": "MethodExecutor.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAASwBsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T00:14:32.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EnumHelper.cs",
+              "DocumentMoniker": "C:\\Projetos\\ADA\\CaixaVersoDotNet\\Aula4\\Reflection\\EnumHelper.cs",
+              "RelativeDocumentMoniker": "EnumHelper.cs",
+              "ToolTip": "C:\\Projetos\\ADA\\CaixaVersoDotNet\\Aula4\\Reflection\\EnumHelper.cs",
+              "RelativeToolTip": "EnumHelper.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T23:51:45.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AnoEscolar.cs",
+              "DocumentMoniker": "C:\\Projetos\\ADA\\CaixaVersoDotNet\\Aula4\\Reflection\\AnoEscolar.cs",
+              "RelativeDocumentMoniker": "AnoEscolar.cs",
+              "ToolTip": "C:\\Projetos\\ADA\\CaixaVersoDotNet\\Aula4\\Reflection\\AnoEscolar.cs",
+              "RelativeToolTip": "AnoEscolar.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T23:50:26.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Aluno.cs",
+              "DocumentMoniker": "C:\\Projetos\\ADA\\CaixaVersoDotNet\\Aula4\\Reflection\\Aluno.cs",
+              "RelativeDocumentMoniker": "Aluno.cs",
+              "ToolTip": "C:\\Projetos\\ADA\\CaixaVersoDotNet\\Aula4\\Reflection\\Aluno.cs",
+              "RelativeToolTip": "Aluno.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAADwvxQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T23:01:34.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projetos\\ADA\\CaixaVersoDotNet\\Aula4\\Reflection\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Projetos\\ADA\\CaixaVersoDotNet\\Aula4\\Reflection\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAgwDoAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T22:00:20.34Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
